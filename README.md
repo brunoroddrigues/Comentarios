@@ -3,13 +3,13 @@
 Este é um projeto de uma plataforma online dedicada ao universo das artes marciais, fornecendo informações sobre diferentes modalidades, produtos relacionados e uma loja para compra de equipamentos.
 
 
-### Comentários
+## Comentários
 
 ***Pagina com comentarios no produto luvas de muay thai que fica em loja***
 
 Os clientes podem deixar seus comentários e avaliações sobre as luvas de Muay Thai na nossa plataforma. Abaixo da descrição do produto, há um espaço para os usuários compartilharem suas experiências e opiniões.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - HTML5
 - CSS3
